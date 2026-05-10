@@ -22,6 +22,6 @@
     "poker44/utils/model_manifest.py",
     "poker44/validator/synapse.py"
   ],
-  "implementation_sha256": "46fed00b35bbd43292b42d79d8fe6faa6a14f9fffa2b8c990a3331e920b0b0ac",
+  "implementation_sha256": "690c1f832688511577a053a43a646134c21a07b4587fce2d393f22fe58ef63c7",
   "notes": "Gen10heur3 profile-based heuristic miner."
 }
